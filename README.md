@@ -1,3 +1,0 @@
-# sushi
-for devs
-rr
